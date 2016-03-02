@@ -15,7 +15,7 @@ JavaScript template.
 
 ##Usage
 
-+ Link to the file after calling jQuery.
++ Link to the script after calling jQuery.
 + Create an options object
 + Pass the options when you call the plugin.
 
