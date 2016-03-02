@@ -1,7 +1,7 @@
 /**
  * jquery.eexpages.js
  * A jQuery plugin for displaying requested URL via AJAX.
- * v1.0.0
+ * v1.0.1
  * Richard Whitmer
  * https://github.com/Panchesco/jquery.eexpages
  */
@@ -39,7 +39,7 @@
 				
 					clearTarget = function(){
 						return $(settings.dataTarg).html('');
-					}
+					};
 					
 				/***********************************************************************/
 					
@@ -57,10 +57,9 @@
 							
 							if($(settings.dataTarg).html(data)){
 								paginationHandler();
-							};
+							}
 						});
-					
-					}
+					};
 						
 				/***********************************************************************/	
 					
@@ -77,9 +76,9 @@
 						.done(function(data){
 							if($(settings.dataTarg).html(data)){
 								paginationHandler();
-							};
+							}
 						});
-					}
+					};
 					
 				/***********************************************************************/	
 					
@@ -94,7 +93,7 @@
 							e.preventDefault();	
 						
 						});
-					}
+					};
 
 				/***********************************************************************/	
 					
@@ -122,6 +121,6 @@
 					
 				/***********************************************************************/	
 				
-				}
+				};
 				
 		})(jQuery);

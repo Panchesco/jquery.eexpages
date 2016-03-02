@@ -1,0 +1,27 @@
+{
+  "name": "jquery.eexpages",
+  "version": "1.0.0",
+  "description": "A jQuery plugin for displaying ExpressionEngine search results  via $.ajax",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Panchesco@github.com/Panchesco/jquery.eexpages.git"
+  },
+  "author": "Richard Whitmer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Panchesco/jquery.eexpages/issues"
+  },
+    "devDependencies": {
+    "gulp-uglify": "^0.3.1",
+    "gulp": "^3.8.7",
+    "gulp-jshint": "^1.8.4",
+    "gulp-rename": "^1.2.0"
+  },
+  "homepage": "https://github.com/Panchesco/jquery.eexpages#readme"
+}
