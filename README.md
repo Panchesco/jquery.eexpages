@@ -33,7 +33,7 @@ A jQuery plugin for displaying ExpressionEngine search results  via $.ajax
 ###Example
 	
 ```javascript
-<script src="{path="webscripts/jquery.eexpages"}"></script>
+<script src="{path="webscripts/jquery.eexpages.min"}"></script>
 <script>
 		(function($){
 			var options = {
