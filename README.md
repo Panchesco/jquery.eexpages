@@ -58,10 +58,10 @@ JavaScript template.
 				formSel: '#simple-search-form',
 				paginationSel: '.pagination > a',
 				beforeSend: function(){
-					$("img.loader").show();
+					$("img.loading").show();
 				},
 				complete: function(){
-					$("img.loader").hide();
+					$("img.loading").hide();
 				},
 				error: {event: function(){console.log('Request Failed')}}
 			}
