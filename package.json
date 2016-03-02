@@ -1,7 +1,7 @@
 {
   "name": "jquery.eexpages",
   "version": "1.0.0",
-  "description": "A jQuery plugin for displaying ExpressionEngine search results  via $.ajax",
+  "description": "A jQuery plugin for displaying pages via $.ajax - built with ExpressionEngine search results in mind.",
   "main": "gulpfile.js",
   "dependencies": {},
   "devDependencies": {},
