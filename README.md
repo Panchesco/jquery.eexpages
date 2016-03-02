@@ -3,7 +3,8 @@ jquery.eexpages
 
 #A jQuery plugin for displaying pages via $.ajax
 
-Built with ExpressionEngine search results in mind.
+Built with displaying paginated sets of ExpressionEngine's search
+results in mind.
 
 
 ##Installation
