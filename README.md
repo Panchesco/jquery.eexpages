@@ -25,7 +25,7 @@ JavaScript template.
 | reqType | Request type: POST/GET | POST |
 | reqUrl | URL of request | |
 | formSel | Selector for form | form |
-| eventSel | Click event selector for fetching URL | |
+| eventSel | Selector for click event to fetch URL | |
 | paginationSel | Selector for pagination links | |
 | dataTarg | Target for returned request | |
 | cache | Force requested pages not to be cached by the browser? | true |
