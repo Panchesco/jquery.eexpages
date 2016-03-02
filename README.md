@@ -3,7 +3,18 @@
 A jQuery plugin for displaying ExpressionEngine search results  via $.ajax
 ===
 
+##Installation
+
++ Download and unzip the package. 
++ Copy ./dist/jquery.eexpages.min.js
+to your js directory or copy the code in that file to an ExpressionEngine
+JavaScript template.
+
 ##Usage
+
++ Link to the file after calling jQuery.
++ Create an options object
++ Pass the options when you call the plugin.
 
 `$(window).eexpages(options)`
 
